@@ -1,0 +1,1 @@
+#Exemplo de comentarios simples de até uma linha
